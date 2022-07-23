@@ -3,7 +3,7 @@ This is a sales data analysis project created by using Excel.
 
 ## 
 In this project i have analysed sales data set of an american sales dataset(FMCG : Fast moving consumer goods)
-I have used different feature of excel while performing this analysi and creating Dashboard👨🏻‍💻, such using slicer, Pivot Table etc.
+I have used different feature of excel while performing this analysis and creating dynamic-Dashboard👨🏻‍💻, such using SLICER, PIVOT TABLES etc.
 
 
 
